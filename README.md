@@ -11,6 +11,8 @@ I'm currently a MSc Mathematics student at UCL. Aspiring in Banking and Data Ana
 - Languages: English (fluent), Chinese (Native)
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/qihaohe04)
 
+------
+last updated: 2025-09-30
 
 <!--
 **Qihaohe17/Qihaohe17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
