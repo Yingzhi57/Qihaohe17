@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Qihao He 👋
+
+I am currently a MSc Mathematics student at UCL. Aspiring in Banking and Data Analyst. 
+
+## Education 
+- BSc Mathematics, UCL
+- MSc Mathematics, UCL
+
+## Skills & Interests
+- Programming: Python, SQL, MATLAB, R
+- Languages: English (fluent), Chinese (Native)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/qihaohe04)
+
 
 <!--
 **Qihaohe17/Qihaohe17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
