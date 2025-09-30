@@ -1,6 +1,6 @@
-## Hi, I'm Qihao He 👋
+## Hello, I'm Qihao He 👋
 
-I am currently a MSc Mathematics student at UCL. Aspiring in Banking and Data Analyst. 
+I'm currently a MSc Mathematics student at UCL. Aspiring in Banking and Data Analyst. 
 
 ## Education 
 - BSc Mathematics, UCL
